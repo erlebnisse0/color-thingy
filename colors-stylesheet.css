@@ -26,12 +26,15 @@ h1{
     outline:none;
     transition: ease-out 0.3s;
     padding: 0.60vw 2.7vw;
-    margin-right: 3.39vw;
+    margin-bottom: 6vw;
+    margin-right: 1.56vw;
+    margin-left: 1.20vw;
+
 }
 .button:hover{
     box-shadow:  inset 20.8vw 0 0 0 #8b9ece;
     cursor:pointer;
-    color: #171818;
+    color: #DDDFED;
 }
 .container{
   display: flex;
@@ -39,44 +42,38 @@ h1{
   justify-content: center;
 }
 
-
-
-
-
-
-
-
-
-
-
-
 /*palettes*/
-table,th,td{
-  border:none;
+#lp, #bp{
+  color: #AFB1C3;
+  text-align: center;
+  font-size: 0.94vw;
+  font-weight: lighter;
+  margin-bottom: 1.56vw;
+  margin-top: 1.56vw;
 }
-table{
-  border-collapse:collapse;
-  width:20%;
+
+.mainp1, .mainp2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-td{
-  height:40px;
+.m-one, .m-six{
+  border-top-left-radius: 1.042vw;
+  border-bottom-left-radius: 1.042vw;
 }
-tr{
-  background-color:green;
-  color:white;
+.m-one,.m-two,.m-three,.m-four,.m-five, .m-six, .m-seven, .m-eight, .m-nine, .m-ten{
+  width: 9vw;
+  height: 8.5vw;
 }
-th{
-  background-color:yellow;
-  color:black;
+.m-five, .m-ten{
+  border-bottom-right-radius: 1.042vw;
+  border-top-right-radius: 1.042vw;
 }
-#haha{
-   background: red;
-}
-#haha2{
-   background-color: purple;
-}
-#haha3{
-   background-color: blue;
-}
+
+
+
+
+
+
 
 
