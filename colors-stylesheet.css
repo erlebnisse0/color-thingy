@@ -75,6 +75,18 @@ a.button {
   border-top-right-radius: 1.042vw;
 }
 
+footer, a{
+  text-align: center;
+  color: #DDDFED;
+  margin: auto;
+  font-size: 0.80vw;
+  opacity: 75%;
+  margin-bottom: 50px;
+  letter-spacing: normal;
+}
+a{
+  color:#babfe7;
+}
 
 
 

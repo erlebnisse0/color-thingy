@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 
@@ -17,12 +18,12 @@ h1{
     margin: auto;
     font-size: 1.6vw;
     letter-spacing: 0.156vw;
-    margin-right: 8.85vw;
+    margin-right: 7vw;
 
 }
-#div-h1{
+#div-h2{
     background: linear-gradient(90deg, #7A8FC5 0%, #848CD6 100%);
-    width: 30vw;
+    width: 30.2vw;
     height: 3.13vw;
     border-radius: 3.13vw;
     margin: auto;
@@ -33,10 +34,7 @@ h1{
     margin-bottom: 10vw;
 }
 
-
-
-
- .lp-full{
+.lp-full{
     display: flex;
     align-items: center;
     justify-content: center;
