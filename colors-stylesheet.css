@@ -1,5 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
+/* mobile version */
+@media (max-width:480px) {
+
+  body{
+    background-color: red;
+  }
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *{
   letter-spacing: 0.156vw;
 }
